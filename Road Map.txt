@@ -1,0 +1,4 @@
+The following directions of development are formulated for this project:
+
+	> full stack of stationarity checking tests
+	> meta-estimator that uses different tests to assess "stationarity degree"
